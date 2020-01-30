@@ -1,0 +1,6 @@
+2020-01-29 00:15:00,148 DEBUG UR3 - DEBUG:arm1 current position =-0.075166    -0.18746       0.409
+2020-01-29 00:15:00,926 DEBUG UR3 - DEBUG:arm1 current position =-0.42951    -0.15387     0.33805
+2020-01-29 00:15:01,705 DEBUG UR3 - DEBUG:arm1 current position =-0.6074     0.34992     0.23593
+2020-01-29 00:15:02,483 DEBUG UR3 - DEBUG:arm1 current position =-0.29308      0.6004     0.20085
+2020-01-29 00:15:03,263 DEBUG UR3 - DEBUG:arm1 current position =-0.19999         0.6     0.20003
+2020-01-29 00:15:03,272 DEBUG UR3 - DEBUG: Final position ofarm1 =-0.19999         0.6     0.20003
