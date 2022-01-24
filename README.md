@@ -4,6 +4,8 @@ Assignments from 41013 Robotics subject @ University of Technology Sydney, Autum
 ## Assignment1 - Dual Robot Assembly Task
 #### “SafeCo Assembly Task”
 
+Video of successful completion of the task: [link](https://www.youtube.com/watch?v=lrr2d_io8Yc)
+
 This task involved the collaboration between two robotics arms (Puma560) into completing a complex task. There are three parts to be
 assembled, and they should be put into a specific order. In that manner, we need to know their poses and calculate joint angles for each
 robot in order to pick the parts up. The trajectory in  joint-space must be smooth, the arms should move to close assembly poses in order
