@@ -1,0 +1,3 @@
+[submodule "assignment2/rubbish-collector"]
+	path = assignment2/rubbish-collector
+	url = https://github.com/thiagolages/rubbish-collector
