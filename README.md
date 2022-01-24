@@ -21,7 +21,7 @@ to perform the task, and finally put the part aside safely.
 ## Assignment2 - Pick and Place Task
 #### Rubbish Collector with Dobot & Turtlebot v3.0 (Extreme-Difficulty Option, check Lab Assingment 2 PDF)
 
-Video of successful completion of the task: https://youtu.be/cC__Lanfi90
+Video of successful completion of the task: [link](https://youtu.be/cC__Lanfi90)
 
 This task took a lot of effort on putting two robots to work together: a mobile base to move around (Turtlebot v3.0) and a manipulator
 for removing the rubbish. This took a lot of sensor integration, manipulation development and collaboration between the two robots.
@@ -43,7 +43,7 @@ the rubbish* and put it aside, clearing the view for the Turtlebot and allowing 
 ## Assignment3 - Visual Servoing & Manipulator Dynamics
 #### Task 1 - Drum inspection
 
-Video of successful completion of the task: https://youtu.be/srst6tM4fFA
+Video of successful completion of the task: [link](https://youtu.be/srst6tM4fFA)
 
 In this task, we needed to use (Image Based) Visual Servoing to inspect 4 corners of a Drum. The task
 consisted of a camera mounted on the end-effector, and it was asked to find a good position of the 
