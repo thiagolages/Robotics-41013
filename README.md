@@ -28,6 +28,7 @@ to perform the task, and finally put the part aside safely.
 #### Rubbish Collector with Dobot & Turtlebot v3.0 (Extreme-Difficulty Option, check Lab Assingment 2 PDF)
 
 **Video of successful completion of the task: [link](https://youtu.be/cC__Lanfi90)**
+
 ![image](https://user-images.githubusercontent.com/22358397/150845039-f6032b7b-8a14-407a-a055-c8512db18747.png)
 
 
@@ -52,6 +53,7 @@ the rubbish* and put it aside, clearing the view for the Turtlebot and allowing 
 #### Task 1 - Drum inspection
 
 **Video of successful completion of the task: [link](https://youtu.be/srst6tM4fFA)**
+
 ![image](https://user-images.githubusercontent.com/22358397/150845227-647836a4-b015-41bd-a53f-f4eac3c14b2d.png)
 
 
