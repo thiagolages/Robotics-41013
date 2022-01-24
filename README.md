@@ -5,6 +5,7 @@ Assignments from 41013 Robotics subject @ University of Technology Sydney, Autum
 #### “SafeCo Assembly Task”
 
 **Video of successful completion of the task: [link](https://www.youtube.com/watch?v=lrr2d_io8Yc)**
+
 ![image](https://user-images.githubusercontent.com/22358397/150844800-b65e7451-b079-4b71-99c5-c226cbb8d26d.png)
 
 
